@@ -9,8 +9,6 @@
 
 ## ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
-
 #### My Nation & Why:
 
 It is Brazil, due to its football tradition, attacking football style and famous footballers. It has always been one of the teams that people find entertaining to watch because of their enthusiasm towards the game.
