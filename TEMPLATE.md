@@ -1,9 +1,9 @@
-# Full Name (Your Role / What You Do)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+#Faizan A
+### Squad Domain: Coder| FIFA Nation: Brazil
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+> Myself Faizan A, a 2nd year Computer Science engineering student from Kerala. I am passionate about technology, software developmentand problem-solving. I enjoy exploring open-source projects, and building practical solutions that can help people. Through μLearn and μFIFA, I hope to improve my technical skills, collaborate with like-minded learners, contribute to meaningful projects, and develop a strong portfolio that showcases my growth as a developer*
 
 ---
 
@@ -13,103 +13,84 @@
 
 #### My Nation & Why:
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
-- Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
+It is Brazil, due to its football tradition, attacking football style and famous footballers. It has always been one of the teams that people find entertaining to watch because of their enthusiasm towards the game.
 
 #### Supporting Team in the Real World Cup 2026:
 
-- Which team are you backing in the actual FIFA World Cup 2026?
-- Are they the same as your μFIFA Nation, or do you split loyalties?
+I will be supporting Brazil in the FIFA World Cup 2026. The style of football and legacy make them my all time favourite team.
 
 #### All-Time Favourite Player:
 
-- Who is your all-time favourite footballer and why?
-- What about their game or story resonates with you?
+The greatest player I have ever seen is Neymar Junior. The combination of his creativity, dribbling skills,self-confidence,and showmanship makes him an exciting player to watch
 
 #### Best Player Right Now:
 
-- Who do you think is the best player in the world at this moment?
-- Make your case.
+Kylian Mbappé is undoubtedly one of the best footballers in the world at this time. The qualities he is having , including his speed,goalscoring ability,consistency and influence in big competitions
 
 #### Past World Cup Memories:
 
-- What's your most memorable FIFA World Cup moment? A match, a goal, a heartbreak, or an upset?
-- Where were you when it happened?
+My favorite memory from the World Cup is the match where Argentina won the FIFA World Cup 2022. It was such an incredible game that it stands out in the history of football. Watched it live on TV with friends
 
 #### 2026 Predictions:
 
-- Who wins the FIFA World Cup 2026?
-- Dark horse team to watch?
-- Player who will define this tournament?
-- Which match are you most looking forward to?
+FIFA World Cup 2026 Winner: Brazil
+Dark Horse: Portugal
+Player of the Tournament: Kylian Mbappé
+Most Anticipated Match: Brazil vs Argentina 
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
-- What do you want to achieve in μFIFA by the time the final whistle blows?
-- What will you have built, learned, or contributed that you didn't have before?
+I wish to develop my coding abilities, work on some open-source projects, raise my μLearn reputation points, do projects that mean something, meet other skilled people in various fields. 
 
 ---
 
 ## 🏅 Portfolio Highlights
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
+At the moment, I'm starting out on my open-source path. I have engaged in μLearn activities via GitHub and am learning to be a good contributor to a collaboration project. In μFIFA, I intend to contribute more to open-source repositories.
 
 #### History of Open Source and Collaborative Contributions:
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+A neat, open source template that extracts a student's accomplishments, challenges completed, and Karma distribution directly from the µLearn API, thereby providing students with an aesthetically pleasing online resume page.
 
 #### History of Community Engagement:
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+You may include your last step of being added to the main µLearn Discord server. That’s the place where all the action takes place—you turn in your enablement tasks, communicate with peers from other IGs, and receive activation of your personal μID.
 
 #### Domain Profiles:
-
-- Link to the platforms where your work lives publicly, relevant to your Squad Domain(s):
-  - **Coder**: GitHub, LeetCode, HackerRank, CTFtime, or similar
-  - **Designer**: Behance, Dribbble, Figma Community, Instagram, YouTube, or similar
-  - **Maker**: Instructables, Hackster.io, Thingiverse, project documentation, or similar
-  - **Strategist**: LinkedIn, campaign pages, event reports, impact documentation, or similar
-- *If you're just starting:* share your profile even if it's empty. This is where you'll build your track record during μFIFA.
+  - **Coder**: GitHub- https://github.com/TheSpulbur
+  - HackerRank- https://www.hackerrank.com/profile/faizananushams
+ 
 
 #### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+AI tools:ChatGPT,Cursor,Claude
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+I am developing my technical portfolio via uLearn tasks, GitHub contributions, coding exercises, and collaborative learning tasks. I intend to build projects that will showcase not only my technical skills but my problem-solving skills as well.
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+Currently pursuing Btech in Computer Science Engineering from Sree Buddha College Of Engineering, Pattoor
+
+GitHub: [TheSpulbur](www.github.com/TheSpulbur)
+LinkedIn: [faizzan](www.linkedin.com/in/faizzan/)
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+I have shown initiative in working with teams, in educational assignments, and in community work. It makes me happy when I can assist my peers in gaining knowledge.
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+μLearn is an awesome place to interact with learners, programmers, designers, and developers. While participating in the μFIFA program, I would be delighted to work with programmers, designers, makers, and strategists.
 
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+Immediate: Strengthen my programming skills, contribute to open source, and build a solid portfolio
 
 ---
 
 #### Profile Card:
-
-<!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
     src="https://mulearn.org/embed/rank/yourname@mulearn"
