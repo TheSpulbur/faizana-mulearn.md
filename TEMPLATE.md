@@ -31,10 +31,10 @@ My favorite memory from the World Cup is the match where Argentina won the FIFA 
 
 #### 2026 Predictions:
 
-FIFA World Cup 2026 Winner: Brazil
-Dark Horse: Portugal
-Player of the Tournament: Kylian Mbappé
-Most Anticipated Match: Brazil vs Argentina 
+**Winner**: Brazil
+**Dark Horse**: Portugal
+**Player of the Tournament**: Kylian Mbappé
+**Most Anticipated Match**: Brazil vs Argentina 
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
