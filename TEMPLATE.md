@@ -91,6 +91,6 @@
 #### Profile Card:
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/faizana@mulearn"
     width="400px">
 </img>
